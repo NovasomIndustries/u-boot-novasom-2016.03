@@ -1,5 +1,5 @@
 # NOVAsom_SDK 1.0.4 u-boot-novasom-2016.03
-# (C) Copyright 2016 Novasom Industries
+# (C) Copyright 2017 Novasom Industries
 Summary:
 ========
 
