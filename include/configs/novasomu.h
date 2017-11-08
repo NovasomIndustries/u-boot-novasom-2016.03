@@ -8,7 +8,7 @@
 #ifndef __MX6ULL_DDR3_ARM2_CONFIG_H
 #define __MX6ULL_DDR3_ARM2_CONFIG_H
 
-//#define CONFIG_DEFAULT_FDT_FILE  "imx6ull-14x14-ddr3-arm2.dtb"
+/*#define CONFIG_DEFAULT_FDT_FILE  "imx6ull-14x14-ddr3-arm2.dtb" */
 #define CONFIG_DEFAULT_FDT_FILE  "novasomu.dtb"
 
 #ifdef CONFIG_SYS_BOOT_QSPI
